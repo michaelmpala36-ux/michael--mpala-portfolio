@@ -1,0 +1,5 @@
+# Plain static site (HTML/CSS/JS) with no build step.
+# The site lives in the michael-mpala-portfolio/ subfolder, so publish that folder as-is.
+[build]
+  publish = "michael-mpala-portfolio"
+  command = ""
